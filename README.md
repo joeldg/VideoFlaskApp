@@ -1,6 +1,8 @@
 ### README.md
 
-# VideoFromJson
+# VideoFlaskApp
+
+NOTE: This is preserved version of a test I did with AI development. It was a success and all future development will be on the newer reposity [VideoFromJSON](https://github.com/joeldg/VideoFromJSON) which will be active devlopment for further enhancements and features of this API as I actively use it. Please provide pull requests there instead of here.
 
 This is a Flask application that allows you to create videos from a series of image and audio segments. The application supports various features such as zooming, panning, fade effects, audiograms, watermarks, background music, audio volume adjustments, video resolution, and thumbnail generation.
 
